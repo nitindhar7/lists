@@ -1,0 +1,17 @@
+- [ ] shot glasses
+- [ ] napkins
+- [ ] cups
+- [ ] plates
+- [ ] tablecloths
+- [ ] confetti
+- [ ] salad
+- [ ] chips & salsa
+- [ ] hummus/pita chips
+- [ ] cheeses/crackers
+- [ ] cookies
+- [ ] bakery
+- [ ] balloons
+- [ ] music
+- [ ] speakers
+- [ ] decor
+- [ ] cake
